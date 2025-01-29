@@ -5,7 +5,7 @@ Adds all Multiplayer camos into Extinction and adds camo support to weapons that
 Drag the data and mods folder into IW6-Mod root folder.
 
 # Loading Mod
-When at Main Menu type in console /fs_game "mods/camoexp" then /vid_restart
+Select mod in mods menu.
 
 # Images
 ![Screenshot (21)](https://github.com/user-attachments/assets/1c634e8f-df63-4792-978b-e103b46b2c32)
